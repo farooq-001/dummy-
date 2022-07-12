@@ -1,0 +1,25 @@
+pipeline script
+
+pipeline{
+     agent any
+     tools{
+         maven "maven3"
+           }
+   stages{
+          stage("checkout"){
+                            steps{
+                                ldlkchwjkl;opl; fdmwvhJ"K;/dlmkjbhp[;/lmknjP';lklp
+                                 } 
+          stage
+          steps{
+                sh 'mvn clean install'
+               }
+
+           }  
+      }
+
+
+
+
+
+}
